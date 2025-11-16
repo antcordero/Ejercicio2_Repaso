@@ -1,0 +1,13 @@
+:root {
+    /*colores de fondo*/
+    --primary-background: #1e1e3f;
+    --secondary-background: #4f73fe;
+    --third-backgorund: #f5f5f5;
+
+    /*textos*/
+    --primary-text-color: #ffffff;
+
+    /*elementos*/
+    --element-background: #ffffff;
+
+}
